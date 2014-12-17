@@ -1,10 +1,10 @@
 var assert 	= require('assert');
 var Joi 	= require('joi');
-var phone 	= require('../');
 
 describe('e164 phone numbering', function() {
 
-	var schema 	= { phone: phone.e164() };
+	Joi.phone = require('../');
+	var schema 	= { phone: Joi.phone.e164() };
 
   	describe('phone number prefix', function() {
 
