@@ -1,0 +1,16 @@
+{
+  "name": "joi-phone",
+  "version": "0.0.1",
+  "description": "joi-phone validates international phone number complying to E.164 numbering format",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "author": "Andrew Keig <andrew.keig@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "joi": "^5.0.2",
+    "mocha": "^2.0.1"
+  },
+  "dependencies": {}
+}
