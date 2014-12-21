@@ -5,7 +5,7 @@ A phone validator for Joi.
 
 `joi-phone` validates that a value is a valid international phone number complying to `E.164` numbering format
 
-[![build status](https://travis-ci.org/AndrewKeig/joi-phone.svg)](http://travis-ci.org/andrewkeig/joi-phone)
+[![build status](https://travis-ci.org/AndrewKeig/joi-phone.svg)](http://travis-ci.org/AndrewKeig/joi-phone)
 
 ## Introduction
 
