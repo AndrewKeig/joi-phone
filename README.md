@@ -44,7 +44,10 @@ npm install joi-phone --save
 ### Tests
 
 
-- `make test` runs tests
+```
+npm test
+
+```
 
 
 ## License
